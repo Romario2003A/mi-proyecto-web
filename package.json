@@ -9,5 +9,12 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+<<<<<<< HEAD
   "type": "commonjs"
+=======
+  "type": "commonjs",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+>>>>>>> b0fe1e315eaa024629debb56f23569d87436f59a
 }
